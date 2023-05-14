@@ -1,5 +1,5 @@
 LWJGL Starter Code
-This repository provides a starter code/template for game or app developers using the LWJGL library. By cloning this repository, you can quickly set up the basic framework for your projects and save time and effort. This starter code includes basic elements such as window creation, input handling, and rendering using OpenGL.
+This repository provides a starter code/template for game or app developers using the LWJGL library. By cloning this repository, you can quickly set up the basic framework for your projects and save time and effort. This starter code includes basic elements such as window creation, input handling, and rendering using OpenGL. The natives for the project are for windows systems.
 
 Getting Started
 To use this starter code, simply clone this repository to your local machine:
